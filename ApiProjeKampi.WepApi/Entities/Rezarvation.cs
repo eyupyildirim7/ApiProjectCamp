@@ -2,7 +2,7 @@
 {
     public class Rezarvation
     {
-        public int ReservationId { get; set; }
+        public int RezarvationId { get; set; }
         public string NameSurname { get; set; }
         public string Email { get; set; }
         public string PhoneNumber { get; set; }
